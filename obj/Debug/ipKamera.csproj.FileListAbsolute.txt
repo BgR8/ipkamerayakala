@@ -1,0 +1,15 @@
+C:\Users\yeni\Desktop\aForge\ipKamera\bin\Debug\ipKamera.exe.config
+C:\Users\yeni\Desktop\aForge\ipKamera\bin\Debug\ipKamera.exe
+C:\Users\yeni\Desktop\aForge\ipKamera\bin\Debug\ipKamera.pdb
+C:\Users\yeni\Desktop\aForge\ipKamera\bin\Debug\AForge.dll
+C:\Users\yeni\Desktop\aForge\ipKamera\bin\Debug\AForge.Video.dll
+C:\Users\yeni\Desktop\aForge\ipKamera\bin\Debug\AForge.xml
+C:\Users\yeni\Desktop\aForge\ipKamera\bin\Debug\AForge.Video.xml
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.csprojAssemblyReference.cache
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.Form1.resources
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.Properties.Resources.resources
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.csproj.GenerateResource.cache
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.csproj.CoreCompileInputs.cache
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.csproj.CopyComplete
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.exe
+C:\Users\yeni\Desktop\aForge\ipKamera\obj\Debug\ipKamera.pdb
