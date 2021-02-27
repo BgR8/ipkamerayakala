@@ -4,7 +4,9 @@ using AForge.Video;
 ```
 
 ## IP'yi çağır
-```MJPEGStream("ip")```
+```
+MJPEGStream("ip")
+```
 ## Bitmap ile PictureBox'a ata.
 ```
 Bitmap bmp = (Bitmap)eventArgs.Frame.Clone();
